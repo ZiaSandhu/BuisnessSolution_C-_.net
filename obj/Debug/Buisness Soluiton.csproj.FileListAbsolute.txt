@@ -1,0 +1,54 @@
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\Buisness Soluiton.exe.config
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\Buisness Soluiton.exe
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\Buisness Soluiton.pdb
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\MetroFramework.Design.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\MetroFramework.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\MetroFramework.Fonts.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.csproj.AssemblyReference.cache
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.csproj.SuggestedBindingRedirects.cache
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Properties.Resources.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.csproj.GenerateResource.cache
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.csproj.CoreCompileInputs.cache
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.csproj.CopyComplete
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.exe
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness Soluiton.pdb
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.MetroTemplate.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.Templates.TemplateForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.Manage_Users.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.LoginForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.DashboardForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.ManageCustomerForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.ManageSupplierForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.CustomerLedgerForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.BackupDataForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.RestoreDateForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.Shared.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\stdole.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.ReportScreen.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.SaleInvoice.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.ManageProductFrom.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\bin\Debug\WebDriver.dll
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.PurchaseInvoice.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.SaleInvoiceRecord.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.SupplierLedgerForm.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.PurchaseRecord.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.AddExpenses.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.DailyTransactionRecord.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.View_Details.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.StockValue.resources
+F:\Buisness Solution Ledger\Buisness Soluiton\obj\Debug\Buisness_Soluiton.Screens.AddIncome.resources
